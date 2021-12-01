@@ -1,0 +1,2 @@
+Official link: https://www.kaggle.com/c/home-credit-default-risk/data
+Back-up link: https://drive.google.com/file/d/18gFp9_YlIDEHD2q6efHBCeQOkpR9kAUi/view?usp=sharing
